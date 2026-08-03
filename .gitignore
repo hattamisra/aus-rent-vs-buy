@@ -17,3 +17,6 @@ wheels/
 *.pdf
 *.csv
 *.zip
+
+# Track these files
+!notes-rent-vs-buy.docx
