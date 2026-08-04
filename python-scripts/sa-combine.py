@@ -7,7 +7,7 @@ import argparse
 import re
 from pathlib import Path
 from typing import Any
-
+from tqdm import tqdm
 import pandas as pd
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
@@ -209,7 +209,7 @@ def combine_sa_rent_data(
     records: list[dict[str, Any]] = []
     files_read = 0
 
-    for path in relevant_files:
+    for path in tqdm(relevant_files):
         year, month = _parse_year_month(path)
         if year is None or month is None:
             continue
