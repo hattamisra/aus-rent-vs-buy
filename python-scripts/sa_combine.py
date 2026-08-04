@@ -182,7 +182,7 @@ def _read_report_table(path: Path) -> tuple[pd.DataFrame, list[str]]:
 
     data = pd.DataFrame(
         filtered_rows,
-        columns=["state_government_region", *filtered_metric_columns],
+        columns=["region", *filtered_metric_columns],
     )
 
     return data, filtered_metric_columns
@@ -222,14 +222,14 @@ def combine_sa_rent_data(
             continue
 
         for _, row in table.iterrows():
-            region = _clean_text(row["state_government_region"])
+            region = _clean_text(row["region"])
             if not region:
                 continue
             if region.lower() in {"total", "grand total"}:
                 continue
 
             record: dict[str, Any] = {
-                "state_government_region": region,
+                "region": region,
                 "year": year,
                 "month": month,
             }
@@ -242,7 +242,7 @@ def combine_sa_rent_data(
 
     combined = pd.DataFrame(records)
     combined = combined.sort_values(
-        ["year", "month", "state_government_region"],
+        ["year", "month", "region"],
         kind="mergesort",
     ).reset_index(drop=True)
 
