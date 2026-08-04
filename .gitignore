@@ -17,6 +17,7 @@ wheels/
 *.pdf
 *.csv
 *.zip
+*_ignore*
 
 # Track these files
 !notes-rent-vs-buy.docx
