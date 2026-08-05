@@ -2,7 +2,9 @@
 
 Australian Bureau of Statistics (2026). Total value of dwellings (March quarter 2026). Australian Government. <https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/total-value-dwellings/latest-release>. Retrieved 6 June 2026.
 
----. Consumer price index, Australia. Australian Government. <https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia>. Retrieved 29 March 2026.
+--- (n.d.). Consumer price index, Australia. <https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia>. Retrieved 29 March 2026.
+
+--- (28 August 2013). Housing occupancy and costs, 2011-12. <https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4130.0Main+Features12011-12?OpenDocument>. Retrieved 26 June 2026.
 
 Australian Taxation Office (27 June 2025). Taxation statistics 2022-23. Australian Government. <https://www.ato.gov.au/about-ato/research-and-statistics/in-detail/taxation-statistics/taxation-statistics-previous-editions/taxation-statistics-2022-23>. Retrieved 03 April 2026.
 
@@ -25,6 +27,8 @@ MSCI (n.d.). MSCI Australia IMI Index. MSCI Inc. <https://www.msci.com/indexes/i
 New South Wales Department of Communities and Justice (n.d.). Housing rent and sales [rent and sales report]. New South Wales Government. <https://dcj.nsw.gov.au/about-us/families-and-communities-statistics/housing-rent-and-sales.html>. Retrieved 29 March 2026.
 
 Reserve Bank of Australia (n.d.). Lenders' interest rates. RBA. <https://www.rba.gov.au/statistics/interest-rates/>. Retrieved 29 March 2026.
+
+_Stamp Duties Act 2000_ (SA) Schedule 2, Part 3. Version effective 01 July 2005. <https://www.legislation.sa.gov.au/lz?path=/c/a/stamp%20duties%20act%201923>
 
 <!-- Can directly cite since I found and read the Stapleton papers -->
 Stapledon, Nigel (September 2007). Long term housing prices in Australia and some economic perspectives. PhD thesis, University of New South Wales. <https://doi.org/10.26190/unsworks/17467>
