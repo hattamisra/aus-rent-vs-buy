@@ -18,7 +18,7 @@ This work is licensed under a
 
 ## Large language model usage declaration
 
-Large language models (LLMs) were used in this project through GitHub Copilot (including "Agent" semi-autonomous code generation) to assist in the creation of python scripts to download and process data for analysis.
+Large language models (LLMs) were used in this project through GitHub Copilot (including "Agent" semi-autonomous code generation) to create python scripts to download and process data for analysis.
 
 LLMs were not used in:
 * The formulation and creation of the analytical model;

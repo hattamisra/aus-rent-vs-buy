@@ -129,6 +129,10 @@ def _read_post_2020_region_sheet(path: Path) -> pd.DataFrame:
     # Keep only data rows that contain a region.
     frame = frame.dropna(subset=["region"], how="all")
 
+    # rename columns so that all columns with 'bedrooms_flats_units' in the name is replaced with 'br_flats' and 'bedrooms_houses' change to 'br_houses'
+    frame = frame.rename(columns=lambda x: re.sub(r"bedrooms?_flats_units", "br_flats", x, flags=re.IGNORECASE))
+    frame = frame.rename(columns=lambda x: re.sub(r"bedrooms?_houses", "br_houses", x, flags=re.IGNORECASE))
+
     return frame
 
 

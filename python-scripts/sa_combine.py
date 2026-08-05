@@ -12,7 +12,7 @@ import pandas as pd
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DEFAULT_INPUT_DIR = ROOT_DIR / "rent-and-price-data" / "sa"
-DEFAULT_OUTPUT_PATH = DEFAULT_INPUT_DIR / "sa-rent-combined.csv"
+DEFAULT_OUTPUT_PATH = DEFAULT_INPUT_DIR / "sa-rent-combined-pre-2020.csv"
 
 SHEET_CANDIDATES = ("Final Region", "Region", "Region and State", "Sheet1")
 
@@ -201,6 +201,7 @@ def combine_sa_rent_data(
         for path in excel_files
         if re.search(r".*(private|quarterly).*rental.*report", path.name, flags=re.IGNORECASE)
         and "lsg_stats" not in path.name.lower()
+        and not re.search(r"2020-12|202[1-9]-[0-9]{2}", path.name) # exclude post-2020 files
     ]
 
     if not relevant_files:
