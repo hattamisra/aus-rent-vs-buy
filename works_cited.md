@@ -26,9 +26,15 @@ MSCI (n.d.). MSCI Australia IMI Index. MSCI Inc. <https://www.msci.com/indexes/i
 
 New South Wales Department of Communities and Justice (n.d.). Housing rent and sales [rent and sales report]. <https://dcj.nsw.gov.au/about-us/families-and-communities-statistics/housing-rent-and-sales.html>. Retrieved 29 March 2026.
 
+Queensland Residential Tenancies Authority (n.d). Median rents quarterly data. <https://www.rta.qld.gov.au/forms-resources/rta-quarterly-data/median-rents-quarterly-data>. Retrieved 29 March 2026.
+
+--- (n.d.). Median weekly rents. <https://web.archive.org/web/20080605022743/http://www.rta.qld.gov.au/median_weekly_rents.cfm>. Archived from the original on 02 September 2011. Retrieved 06 August 2026.
+
+--- (n.d.). Median weekly rents archive. <https://web.archive.org/web/20110902023218/http://www.rta.qld.gov.au/median_weekly_rents.cfm>. Archived from the original on 05 June 2008. Retrieved 06 August 2026.
+
 Reserve Bank of Australia (n.d.). Lenders' interest rates. RBA. <https://www.rba.gov.au/statistics/interest-rates/>. Retrieved 29 March 2026.
 
-SA Housing Trust (n.d.). Private rent report. <https://data.sa.gov.au/data/dataset/private-rent-report>. Retrieved 02 August 2026.
+South Australian Housing Trust (n.d.). Private rent report. <https://data.sa.gov.au/data/dataset/private-rent-report>. Retrieved 02 August 2026.
 
 _Stamp Duties Act 2000_ (SA) Schedule 2, Part 3. Version effective 01 July 2005. <https://www.legislation.sa.gov.au/lz?path=/c/a/stamp%20duties%20act%201923>
 
