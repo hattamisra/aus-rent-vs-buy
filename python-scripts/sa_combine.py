@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """Combine South Australia rent Excel reports into one tidy pandas DataFrame."""
 
-from __future__ import annotations
-
 import argparse
 import re
 from pathlib import Path

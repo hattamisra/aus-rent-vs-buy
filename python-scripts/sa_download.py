@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """Download South Australia private rent report Excel files from the dataset web page."""
 
-from __future__ import annotations
-
 import argparse
 import re
 from pathlib import Path

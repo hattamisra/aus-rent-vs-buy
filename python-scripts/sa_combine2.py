@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """Process post-2020-12 South Australia rent Excel reports into a combined CSV."""
 
-from __future__ import annotations
-
 import argparse
 import re
 from pathlib import Path
