@@ -18,27 +18,27 @@ Felix, Benjamin and Hamza Bin Arif (2025). Renting vs owning a home in Canada 20
 
 Fox, Ryan and Peter Tulip (July 2014). Is housing overvalued? _Research Discussion Paper (RDP)_ 2014-06, Reserve Bank of Australia. <https://www.rba.gov.au/publications/rdp/2014/2014-06/>
 
-Homes Victoria (n.d.). Rental report - quarterly: quarterly median rents by LGA. <https://discover.data.vic.gov.au/dataset/rental-report-quarterly-quarterly-median-rents-by-lga>. Retrieved 29 March 2026.
+Homes Victoria. Rental report - quarterly: quarterly median rents by LGA. <https://discover.data.vic.gov.au/dataset/rental-report-quarterly-quarterly-median-rents-by-lga>. Retrieved 29 March 2026.
 
 Kaczerepa, Gemma (20 September 2022). "Real estate commissions: How does it work and how much should you be paying?" Realestate.com.au. <https://www.realestate.com.au/advice/real-estate-agent-commissions/>. Retrieved 01 April 2026.
 
-MSCI (n.d.). MSCI Australia IMI Index. MSCI Inc. <https://www.msci.com/indexes/index/664147/msci-australia-imi-index>. Retrieved 29 March 2026. 
+MSCI. MSCI Australia IMI Index. MSCI Inc. <https://www.msci.com/indexes/index/664147/msci-australia-imi-index>. Retrieved 29 March 2026. 
 
 ---. MSCI World IMI Index. MSCI Inc. <https://www.msci.com/indexes/index/664185/msci-world-imi-index>. Retrieved 29 March 2026.
 
-New South Wales Department of Communities and Justice (n.d.). Housing rent and sales [rent and sales report]. <https://dcj.nsw.gov.au/about-us/families-and-communities-statistics/housing-rent-and-sales.html>. Retrieved 29 March 2026.
+New South Wales Department of Communities and Justice. Housing rent and sales [rent and sales report]. <https://dcj.nsw.gov.au/about-us/families-and-communities-statistics/housing-rent-and-sales.html>. Retrieved 29 March 2026.
 
 Queensland Residential Tenancies Authority (n.d). Median rents quarterly data. <https://www.rta.qld.gov.au/forms-resources/rta-quarterly-data/median-rents-quarterly-data>. Retrieved 29 March 2026.
 
---- (n.d.). Median weekly rents. <https://web.archive.org/web/20080605022743/http://www.rta.qld.gov.au/median_weekly_rents.cfm>. Archived from the original on 02 September 2011. Retrieved 06 August 2026.
+---. Median weekly rents. <https://web.archive.org/web/20080605022743/http://www.rta.qld.gov.au/median_weekly_rents.cfm>. Archived from the original on 02 September 2011. Retrieved 06 August 2026.
 
---- (n.d.). Median weekly rents archive. <https://web.archive.org/web/20110902023218/http://www.rta.qld.gov.au/median_weekly_rents.cfm>. Archived from the original on 05 June 2008. Retrieved 06 August 2026.
+---. Median weekly rents archive. <https://web.archive.org/web/20110902023218/http://www.rta.qld.gov.au/median_weekly_rents.cfm>. Archived from the original on 05 June 2008. Retrieved 06 August 2026.
 
-Reserve Bank of Australia (n.d.). Lenders' interest rates. RBA. <https://www.rba.gov.au/statistics/interest-rates/>. Retrieved 29 March 2026.
+Reserve Bank of Australia. Lenders' interest rates. RBA. <https://www.rba.gov.au/statistics/interest-rates/>. Retrieved 29 March 2026.
 
 SGS Economics and Planning. Renter affordability index. <https://sgsep.com.au/projects/rental-affordability-index>. Retrieved 07 August 2026.
 
-South Australian Housing Trust (n.d.). Private rent report. <https://data.sa.gov.au/data/dataset/private-rent-report>. Retrieved 02 August 2026.
+South Australian Housing Trust. Private rent report. <https://data.sa.gov.au/data/dataset/private-rent-report>. Retrieved 02 August 2026.
 
 _Stamp Duties Act 2000_ (SA) Schedule 2, Part 3. Version effective 01 July 2005. <https://www.legislation.sa.gov.au/lz?path=/c/a/stamp%20duties%20act%201923>
 
