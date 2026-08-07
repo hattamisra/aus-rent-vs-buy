@@ -1,6 +1,8 @@
 ## Works cited
 
-Australian Bureau of Statistics (n.d.). Consumer price index, Australia. <https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia>. Retrieved 29 March 2026.
+Australian Bureau of Statistics. Census of Population and Housing (2006, 2011, 2016, 2021), TableBuilder. <https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder>. 
+
+---. Consumer price index, Australia. <https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia>. Retrieved 29 March 2026.
 
 --- (28 August 2013). Housing occupancy and costs, 2011-12. <https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4130.0Main+Features12011-12?OpenDocument>. Retrieved 26 June 2026.
 
@@ -33,6 +35,8 @@ Queensland Residential Tenancies Authority (n.d). Median rents quarterly data. <
 --- (n.d.). Median weekly rents archive. <https://web.archive.org/web/20110902023218/http://www.rta.qld.gov.au/median_weekly_rents.cfm>. Archived from the original on 05 June 2008. Retrieved 06 August 2026.
 
 Reserve Bank of Australia (n.d.). Lenders' interest rates. RBA. <https://www.rba.gov.au/statistics/interest-rates/>. Retrieved 29 March 2026.
+
+SGS Economics and Planning. Renter affordability index. <https://sgsep.com.au/projects/rental-affordability-index>. Retrieved 07 August 2026.
 
 South Australian Housing Trust (n.d.). Private rent report. <https://data.sa.gov.au/data/dataset/private-rent-report>. Retrieved 02 August 2026.
 
