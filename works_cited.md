@@ -34,6 +34,8 @@ Queensland Residential Tenancies Authority (n.d). Median rents quarterly data. <
 
 ---. Median weekly rents archive. <https://web.archive.org/web/20110902023218/http://www.rta.qld.gov.au/median_weekly_rents.cfm>. Archived from the original on 05 June 2008. Retrieved 06 August 2026.
 
+Queensland Revenue Office. Previous transfer duty rates. https://qro.qld.gov.au/duties/transfer-duty/calculate/rates/. Accessed 09 August 2026.
+
 Reserve Bank of Australia. Lenders' interest rates. RBA. <https://www.rba.gov.au/statistics/interest-rates/>. Retrieved 29 March 2026.
 
 SGS Economics and Planning. Renter affordability index. <https://sgsep.com.au/projects/rental-affordability-index>. Retrieved 07 August 2026.
