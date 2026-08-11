@@ -1,5 +1,7 @@
 ## Works cited
 
+Ableson, Peter and Roselyne Joyeux (2023). Housing prices and rents in Australia 1980-2023: Facts, explanations, and outcomes. Tax and Transfer Policy Institute, Australian National University. <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4591845>
+
 Australian Bureau of Statistics. Census of Population and Housing (2006, 2011, 2016, 2021), TableBuilder. <https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder>. 
 
 ---. Consumer price index, Australia. <https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia>. Retrieved 29 March 2026.
@@ -9,6 +11,8 @@ Australian Bureau of Statistics. Census of Population and Housing (2006, 2011, 2
 --- (2026). Total value of dwellings (March quarter 2026). <https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/total-value-dwellings/latest-release>. Retrieved 06 June 2026.
 
 Australian Taxation Office (27 June 2025). Taxation statistics 2022-23. <https://www.ato.gov.au/about-ato/research-and-statistics/in-detail/taxation-statistics/taxation-statistics-previous-editions/taxation-statistics-2022-23>. Retrieved 03 April 2026.
+
+Domain. Rental reports. <https://www.domain.com.au/research/rental-report/>. Accessed 10 August 2026.
 
 _Duties Act 1997_ (NSW) §32. Version effective 07 December 2005. <https://legislation.nsw.gov.au/view/html/inforce/2005-12-07/act-1997-123#sec.32> 
 
@@ -41,6 +45,8 @@ Reserve Bank of Australia. Lenders' interest rates. RBA. <https://www.rba.gov.au
 SGS Economics and Planning. Renter affordability index. <https://sgsep.com.au/projects/rental-affordability-index>. Retrieved 07 August 2026.
 
 South Australian Housing Trust. Private rent report. <https://data.sa.gov.au/data/dataset/private-rent-report>. Retrieved 02 August 2026.
+
+_Stamp Act 1921_ (WA) Second Schedule. Version effective 01 January 2006. <https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a770_currencies.html>
 
 _Stamp Duties Act 2000_ (SA) Schedule 2, Part 3. Version effective 01 July 2005. <https://www.legislation.sa.gov.au/lz?path=/c/a/stamp%20duties%20act%201923>
 

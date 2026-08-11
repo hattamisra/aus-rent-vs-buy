@@ -30,6 +30,20 @@ Felix & Bin Arif use a weighted average of apartment rents - single family (deta
     - Can get median for all dwellings from [Rental Affordability Index](https://sgsep.com.au/projects/rental-affordability-index) - can then cross-check with Census data (ABS TableBuilder?) to estimate median rents for 2-bed flats and 3-bed houses as a % of the median for all dwellings
 - [Cox & Followill 2018](https://www.financialplanningassociation.org/article/journal/MAY18-rent-or-buy-30-year-perspective) find that owned homes in the US tend to be larger (in floor area) than rented homes, so we ought to be careful and make sure our rent vs house price comparisons are accurate
 
+### WA comparison
+
+Needed to estimate median rents for 2-bed flats and 3-bed houses from multiple sources. WA does not publish rent data stratified by type of dwelling or number of bedrooms, only bonds by postcode and $.
+
+Ableson and Joyeux 2023 has median rents for houses and units for certain years.
+
+Domain has quarterly rental reports since Dec 2023.
+
+Renter Affordability Index (RAI) gives median rent since 2011 but doesn't separate it between houses and units. Comparing those rates to median house and median unit rents from Ableson and Joyeux 2023 as well as Domain, we then calibrate a scalar multiplier to the median total rent to get an educated guess of median house and unit rents. For units this is 0.95 and for houses this is 1.05. Note that most rental properties in Perth are houses.
+
+Used Census rent data to calibrate RAI data but the first go round I pulled for all renters incl. housing commission renters which get below market rents, so the Census rents were a bit lower than is appropriate if we want to compare market rents
+
+In the end I created my own composite rents series for Perth, using Domain and Ableson & Joyeux 2023 as primary sources, then falling back on RAI values when neither primary source is available, then interpolating/extrapolating from RAI & Ableson using Aus CPI rents when nothing else was available. The Perth rents (especially 2006-11) should thus be interpreted with caution as it is less reliable than other cities' rent data, but it is a good enough starting point for our analysis.
+
 ## Other renter costs - Tenant insurance and moving
 
 - CPI Table 18 has insurance CPI from Sep 1989
