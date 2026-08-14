@@ -10,6 +10,8 @@ Australian Bureau of Statistics. Census of Population and Housing (2006, 2011, 2
 
 --- (2026). Total value of dwellings (March quarter 2026). <https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/total-value-dwellings/latest-release>. Retrieved 06 June 2026.
 
+Australian Capital Territory Revenue Office. Historical rates of duty [conveyance duty (stamp duty)]. <https://www.revenue.act.gov.au/rates-and-property-charges/conveyance-duty-stamp-duty/historical-rates-of-duty#Transaction-dates-from-1-July-2002-to-5-June-2012>. Retrieved 14 August 2026.
+
 Australian Taxation Office (27 June 2025). Taxation statistics 2022-23. <https://www.ato.gov.au/about-ato/research-and-statistics/in-detail/taxation-statistics/taxation-statistics-previous-editions/taxation-statistics-2022-23>. Retrieved 03 April 2026.
 
 Domain. Rental reports [December 2023 to December 2025]. <https://www.domain.com.au/research/rental-report/>. Accessed 10 August 2026.
@@ -53,3 +55,5 @@ _Stamp Duties Act 2000_ (SA) Schedule 2, Part 3. Version effective 01 July 2005.
 Stapledon, Nigel (September 2007). Long term housing prices in Australia and some economic perspectives. PhD thesis, University of New South Wales. <https://doi.org/10.26190/unsworks/17467>
 
 --- (November 2012). Trends and cycles in Sydney and Melbourne house prices from 1880 to 2011. _Australian Economic History Review_, vol. 52 no. 3. <https://doi.org/10.1111/j.1467-8446.2012.00359.x>
+
+State Revenue Office of Tasmania. Rates of duty [property transfer duties]. <https://www.sro.tas.gov.au/property-transfer-duties/rates-of-duty>. Accessed 13 August 2026.
