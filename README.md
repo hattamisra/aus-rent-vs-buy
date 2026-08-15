@@ -11,7 +11,7 @@ Author: Hatta Misra, 2026
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by]. 
 
-Please attribute this work by citing the author (Hatta Misra) and linking to [the article](hattamisra.github.io/aus-rent-vs-buy) on the author's website as well as the [GitHub repository](https://github.com/hattamisra/aus-rent-vs-buy).
+Please attribute this work by citing the author (Hatta Misra) and linking to [the article](https://hattamisra.github.io/aus-rent-vs-buy) on the author's website as well as the [GitHub repository](https://github.com/hattamisra/aus-rent-vs-buy).
 
 Note: Data sources used in this work may be subject to different licenses that impose further restrictions on your rights, such as prohibiting the use of the data for commercial purposes.
 
