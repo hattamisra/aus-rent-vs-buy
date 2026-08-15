@@ -50,6 +50,8 @@ South Australian Housing Trust. Private rent report. <https://data.sa.gov.au/dat
 
 _Stamp Act 1921_ (WA) Second Schedule. Version effective 01 January 2006. <https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a770_currencies.html>
 
+_Stamp Duty Act 1978_ (NT) Schedule 1. Version effective 18 July 2005. <https://legislation.nt.gov.au/Legislation/STAMP-DUTY-ACT-1978>
+
 _Stamp Duties Act 2000_ (SA) Schedule 2, Part 3. Version effective 01 July 2005. <https://www.legislation.sa.gov.au/lz?path=/c/a/stamp%20duties%20act%201923>
 
 Stapledon, Nigel (September 2007). Long term housing prices in Australia and some economic perspectives. PhD thesis, University of New South Wales. <https://doi.org/10.26190/unsworks/17467>
