@@ -20,4 +20,5 @@ wheels/
 *_ignore*
 
 # Track these files
-!notes-rent-vs-buy.docx
+!summary-and-charts.xlsx
+!analysis-and-results-*.xlsx
